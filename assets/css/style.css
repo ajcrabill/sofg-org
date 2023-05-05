@@ -432,8 +432,8 @@ h6 {
 
 /* PHONE OR TABLET IN PORTRAIT */
 @media screen and (orientation: portrait) and (min-width: 0px) and (max-width:1000px) { 
-  #hero .col-xl-auto { padding-top:20px; }
-  #hero h1 { font-size: 18px; }
+  #hero .col-xl-auto { padding-top:10px; }
+  #hero h1 { font-size: 26px; }
 }
 
 /* PHONE OR TABLET IN LANDSCAPE */
