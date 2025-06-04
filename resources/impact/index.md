@@ -21,11 +21,12 @@ Student Outcomes Focused Governance (SOFG) is a training and coaching framework 
 The dataset covers 74 large urban districts (including all NAEP TUDA districts and others) from 2017–2024. For each district, we have indicators of SOFG participation (whether the school board completed the 2-day workshop, whether a SOFG coach was hired, and whether the board achieved a score ≥50 on the SOFG rubric, and in which year). District demographics include 2019 enrollment and % of students eligible for free/reduced lunch (poverty indicator). Student outcomes are captured in two ways:
 <br/><br/>
 
-ERS “Grade Equivalent” Gains: Change in performance (in grade-level equivalents) from 2019 to 2022, 2022 to 2024, and overall 2019 to 2024 in Reading and Math. These measures estimate how many grade-levels of learning students gained or lost over the time periods. For example, a value of -0.50 would indicate students are performing about half a grade level lower in 2024 than their predecessors did in 2019, on that subject’s assessments.
-<br/><br/>
+<ul>
+<li>ERS “Grade Equivalent” Gains: Change in performance (in grade-level equivalents) from 2019 to 2022, 2022 to 2024, and overall 2019 to 2024 in Reading and Math. These measures estimate how many grade-levels of learning students gained or lost over the time periods. For example, a value of -0.50 would indicate students are performing about half a grade level lower in 2024 than their predecessors did in 2019, on that subject’s assessments.</li>
 
-NAEP Scores and Proficiency: For the 27 Trial Urban District Assessment (TUDA) districts, NAEP 4th and 8th grade Reading and Math scores are given for 2019, 2022, and 2024, along with the change from 2019 to 2024 and from 2022 to 2024, and whether those changes are statistically significant. (NAEP uses a 0–500 scale; a change of ~10+ points often indicates a noticeable effect 1 .) Percentages of students proficient in 2019, 2022, 2024 (on state assessments or NAEP-equivalent benchmarks) are provided for many districts as well.
-<br/><br/>
+
+<li>NAEP Scores and Proficiency: For the 27 Trial Urban District Assessment (TUDA) districts, NAEP 4th and 8th grade Reading and Math scores are given for 2019, 2022, and 2024, along with the change from 2019 to 2024 and from 2022 to 2024, and whether those changes are statistically significant. (NAEP uses a 0–500 scale; a change of ~10+ points often indicates a noticeable effect 1 .) Percentages of students proficient in 2019, 2022, 2024 (on state assessments or NAEP-equivalent benchmarks) are provided for many districts as well.</li>
+</ul><br/>
 
 Out of the 74 districts, 52 received no SOFG training, 17 were trained but did not fully implement, and 5–6 implemented SOFG effectively (scoring ≥50). The “implemented” group is small – it includes districts like Dallas, Houston, Albuquerque, Aurora, and (as of 2025) Austin and San Antonio. This limits statistical power, but we can still observe patterns. Notably, Dallas ISD was an early adopter (met the implementation threshold in 2019), while others like Houston and Albuquerque only reached full implementation by 2024.
 <br/><br/>
