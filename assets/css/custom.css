@@ -1,0 +1,167 @@
+:root {
+  --navy: #003e7e;
+  --grey-mid: #555;
+  --grey-light: #888;
+}
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 300;
+  color: #333;
+  background: #fff;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Source Serif 4', serif;
+}
+
+/* Nav */
+#header, header {
+  background: #fff !important;
+  border-bottom: 3px solid #003e7e !important;
+  box-shadow: none !important;
+}
+
+.navbar a, nav a, .nav-link {
+  color: #003e7e !important;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.navbar a:hover, nav a:hover {
+  color: #002860 !important;
+}
+
+.logo img {
+  height: 48px !important;
+  width: auto !important;
+}
+
+/* Hero */
+#hero, .hero, section#hero {
+  background: #003e7e !important;
+}
+
+#hero h1, .hero h1 {
+  font-family: 'Source Serif 4', serif;
+  font-style: italic;
+  font-weight: 300;
+  color: #fff !important;
+  font-size: 1.95rem;
+  line-height: 1.5;
+}
+
+#hero h2, .hero h2 {
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 300;
+  color: rgba(255,255,255,0.6) !important;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+#hero p, .hero p {
+  color: rgba(255,255,255,0.6) !important;
+  font-weight: 300;
+}
+
+/* Buttons */
+.btn-get-started, a.btn-get-started {
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.3px;
+}
+
+/* Primary button: white on navy bg */
+#hero .btn-get-started:first-of-type,
+section#hero a.btn-get-started:first-child {
+  background: #fff !important;
+  color: #003e7e !important;
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+/* Secondary button: bordered */
+#hero .btn-get-started:last-of-type,
+section#hero a.btn-get-started:last-child {
+  background: transparent !important;
+  color: rgba(255,255,255,0.7) !important;
+  border: 1px solid rgba(255,255,255,0.3) !important;
+  border-radius: 0 !important;
+}
+
+/* Section background */
+.section-bg, section.section-bg {
+  background: #f6f6f7 !important;
+}
+
+/* Cards / icon boxes */
+.icon-box {
+  border-top: 3px solid #003e7e !important;
+  background: #fff !important;
+}
+
+.icon-box:nth-child(2) { border-top-color: #555 !important; }
+.icon-box:nth-child(3) { border-top-color: #888 !important; }
+
+.icon-box h4 {
+  font-family: 'Source Serif 4', serif;
+  color: #003e7e !important;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.icon-box:nth-child(2) h4,
+.icon-box:nth-child(3) h4 {
+  color: #333 !important;
+}
+
+.icon-box p {
+  color: #666;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 1.65;
+}
+
+/* Section titles */
+.section-title h2 {
+  font-family: 'Source Serif 4', serif;
+  color: #003e7e !important;
+  font-weight: 400;
+}
+
+.section-title h2::after,
+.section-title h2::before {
+  background: #003e7e !important;
+}
+
+.section-title p {
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 300;
+}
+
+/* Links */
+a { color: #003e7e; }
+a:hover { color: #002860; }
+
+/* Footer */
+#footer, footer {
+  background: #1a2a3a !important;
+}
+
+#footer a, footer a {
+  color: rgba(255,255,255,0.6) !important;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  background: #f0f4f8 !important;
+  border-bottom: 1px solid #d8e4ee !important;
+}
+
+.breadcrumbs h2 {
+  font-family: 'Source Serif 4', serif;
+  font-weight: 400;
+  color: #003e7e !important;
+}
